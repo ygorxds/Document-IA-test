@@ -63,7 +63,7 @@ package-lock.json
 coverage/
 
 # Ignorar chaves de API e arquivos de credenciais
-*.json
+
 
 # Arquivos de testes e snapshots
 __tests__/
